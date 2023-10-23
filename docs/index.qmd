@@ -1,0 +1,25 @@
+---
+title: "NM2207 Yingzhe's Final Project"
+---
+
+Week 1 - <https://github.com/yingzzzliu/nm2207-w1.git>
+
+Week 2 - <https://github.com/yingzzzliu/nm2207-w2.git>
+
+Week 3 - <https://github.com/yingzzzliu/nm2207-w3.git>
+
+Week 4 - <https://github.com/yingzzzliu/nm2207-w4.git>
+
+Week 5 - <https://github.com/yingzzzliu/nm2207-w5.git>
+
+Week 6 - <https://github.com/yingzzzliu/nm2207-w6.git>
+
+Week 7 - <https://github.com/yingzzzliu/nm2207-w7.git>
+
+Week 8 - <https://github.com/yingzzzliu/nm2207-w8.git>
+
+Week 9 - <https://github.com/yingzzzliu/nm2207-w9-.git>
+
+Final Project w9 submission - <https://github.com/yingzzzliu/Final-Project-w9.git>
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

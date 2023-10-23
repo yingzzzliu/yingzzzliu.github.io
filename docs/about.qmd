@@ -1,0 +1,25 @@
+---
+title: "About me! And my project"
+about: trestles
+---
+
+**My project**
+
+I decided to explore the World Happiness Index as an area of interest because I wish to curate strategies that students can use to stay happier and afloat midst the stress of university life, especially in Singapore!
+
+![](images/photo_2023-08-30_23-16-39.jpg){width="500"}
+\-\--
+
+Hello! I am Yingzhe, a Year 3 student majoring in Psychology and Communications and New Media. I enjoy tranquility so my dream has always been to live on the countryside and enjoy the peace and quiet there.
+
+**Education**
+
+National University of Singapore
+
+National Junior College
+
+Anderson Secondary School
+
+**Experience**
+
+Coder \| Rookie \| Aug 2023 - present...
