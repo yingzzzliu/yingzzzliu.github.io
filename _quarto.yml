@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "LIU YINGZHE"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: finalproject.qmd
+        text: Final Project
+      - href: projectprogress.qmd
+        text: Project Progress
+
+
+format:
+  html:
+    theme: theme.scss
+    css: new.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "YINGZHE",
+    "section": "",
+    "text": "Hello :) I am Yingzhe, a Year 3 student studying Psychology and Communications and New Media in National University of Singapore. Welcome to my very own website designed with Quarto and my blood,sweat and tears. (just kidding!)\n13 weeks ago, I decided to embark on a personal challenge of learning how to code and hence opted for this module, NM2207. I have previously worked with Wix and thought it was very fun organising and customising your own website so I thought building one from code would be a good challenge and also a time to pick up a new skill! Stick around and play with the website to see the fruits of my labour this semester :D."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Hi! I am Liu Yingzhe, a Year 3 Psychology and Communications and New Media student. I took psychology because I thought the way why humans do what we do was really interesting and I wanted to learn more about it (although I am absolutely crushed in my classes right now)…I took CNM as a second major because I think communication is really essential in our life and good communication skills can have a significant impact on whatever we set out too do.\nI took this module, NM2207 as I was interested in coding and wanted to pick up a new skill! I have previous experience in Wix and figured it would be a fun challenge if I could code a website and customise it to my preferences.\n\nIn my project, I am interested to explore how can the Happiness Index of countries predict their economic/state if there are any relationships between the index value and the economic/social state of the country."
+  },
+  {
+    "objectID": "weeksdirectory.html",
+    "href": "weeksdirectory.html",
+    "title": "Weeks Directory",
+    "section": "",
+    "text": "Week 1 - https://github.com/yingzzzliu/nm2207-w1.git\nWeek 2 - https://github.com/yingzzzliu/nm2207-w2.git\nWeek 3 - https://github.com/yingzzzliu/nm2207-w3.git\nWeek 4 - https://github.com/yingzzzliu/nm2207-w4.git\nWeek 5 - https://github.com/yingzzzliu/nm2207-w5.git\nWeek 6 - https://github.com/yingzzzliu/nm2207-w6.git\nWeek 7 - https://github.com/yingzzzliu/nm2207-w7.git\nWeek 8 - https://github.com/yingzzzliu/nm2207-w8.git\nWeek 9 - https://github.com/yingzzzliu/nm2207-w9-.git\nWeek 10 - https://github.com/yingzzzliu/nm2207-w10.git"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "LIU YINGZHE",
+    "section": "",
+    "text": "title: “YINGZHE”\nimage: me.jpg\nabout:\ntemplate: jolla\nimage-shape: round"
+  },
+  {
+    "objectID": "projectprogress.html",
+    "href": "projectprogress.html",
+    "title": "Project Progress",
+    "section": "",
+    "text": "This page allows you to access all the projects/code-alongs/challenges that I have done throughout the semester! From week 9 onwards, there are diary entries recording my progress and the challenges I have faced when doing this final project. For easier reference to the diary entries, please click on the link to ‘Project Diary’.\nWeek 1 - https://github.com/yingzzzliu/nm2207-w1.git\nWeek 2 - https://github.com/yingzzzliu/nm2207-w2.git\nWeek 3 - https://github.com/yingzzzliu/nm2207-w3.git\nWeek 4 - https://github.com/yingzzzliu/nm2207-w4.git\nWeek 5 - https://github.com/yingzzzliu/nm2207-w5.git\nWeek 6 - https://github.com/yingzzzliu/nm2207-w6.git\nWeek 7 - https://github.com/yingzzzliu/nm2207-w7.git\nWeek 8 - https://github.com/yingzzzliu/nm2207-w8.git\nWeek 9 - https://github.com/yingzzzliu/nm2207-w9-.git\nWeek 10 - https://github.com/yingzzzliu/nm2207-w10.git\nWeek 11 -\nWeek 12 -\nProject Dairy -"
+  },
+  {
+    "objectID": "projectprogress.html#project-progress",
+    "href": "projectprogress.html#project-progress",
+    "title": "Project Progress",
+    "section": "",
+    "text": "This page allows you to access all the projects/code-alongs/challenges that I have done throughout the semester! From week 9 onwards, there are diary entries recording my progress and the challenges I have faced when doing this final project. For easier reference to the diary entries, please click on the link to ‘Project Diary’.\nWeek 1 - https://github.com/yingzzzliu/nm2207-w1.git\nWeek 2 - https://github.com/yingzzzliu/nm2207-w2.git\nWeek 3 - https://github.com/yingzzzliu/nm2207-w3.git\nWeek 4 - https://github.com/yingzzzliu/nm2207-w4.git\nWeek 5 - https://github.com/yingzzzliu/nm2207-w5.git\nWeek 6 - https://github.com/yingzzzliu/nm2207-w6.git\nWeek 7 - https://github.com/yingzzzliu/nm2207-w7.git\nWeek 8 - https://github.com/yingzzzliu/nm2207-w8.git\nWeek 9 - https://github.com/yingzzzliu/nm2207-w9-.git\nWeek 10 - https://github.com/yingzzzliu/nm2207-w10.git\nWeek 11 -\nWeek 12 -\nProject Dairy -"
+  },
+  {
+    "objectID": "projectprogress.html#learning-log",
+    "href": "projectprogress.html#learning-log",
+    "title": "Project Progress",
+    "section": "Learning Log",
+    "text": "Learning Log\nAdditionally, I have included a document to show my application of concepts taught during class in my final project. It also includes some extra learning I did beyond this course and how it has been helpful to my final project set up :) ."
+  },
+  {
+    "objectID": "aboutme.html#image-width-15em",
+    "href": "aboutme.html#image-width-15em",
+    "title": "LIU YINGZHE",
+    "section": "image-width: 15em",
+    "text": "image-width: 15em\n\n\n\nHello :) I am Yingzhe, a Year 3 student studying Psychology and Communications and New Media in National University of Singapore. Welcome to my very own website designed with Quarto and my blood,sweat and tears xoxo. 13 weeks ago, I decided to embark on a personal challenge of learning how to code and hence opted for this module, NM2207. I have previously worked with Wix and thought it was very fun organising and customising your own website so I thought building one from code would be a good challenge and also a time to pick up a new skill! Stick around and play with the website to see the fruits of my labour this semester :D."
+  },
+  {
+    "objectID": "finalproject.html",
+    "href": "finalproject.html",
+    "title": "LIU YINGZHE",
+    "section": "",
+    "text": "title: “YINGZHE”\nimage: me.jpg\nabout:\ntemplate: jolla\nimage-shape: round"
+  },
+  {
+    "objectID": "finalproject.html#image-width-15em",
+    "href": "finalproject.html#image-width-15em",
+    "title": "LIU YINGZHE",
+    "section": "image-width: 15em",
+    "text": "image-width: 15em\n\n\n\nHello :) I am Yingzhe, a Year 3 student studying Psychology and Communications and New Media in National University of Singapore. Welcome to my very own website designed with Quarto and my blood,sweat and tears xoxo. 13 weeks ago, I decided to embark on a personal challenge of learning how to code and hence opted for this module, NM2207. I have previously worked with Wix and thought it was very fun organising and customising your own website so I thought building one from code would be a good challenge and also a time to pick up a new skill! Stick around and play with the website to see the fruits of my labour this semester :D."
+  },
+  {
+    "objectID": "index.html#a-little-self-intro",
+    "href": "index.html#a-little-self-intro",
+    "title": "YINGZHE",
+    "section": "A little self intro",
+    "text": "A little self intro\nHello :) I am Yingzhe, a Year 3 student studying Psychology and Communications and New Media in National University of Singapore. Some of my hobbies are travelling (exploring the nature abroad), eating (love visiting cafes with matcha options) and reading (love me a good novel). Welcome to my very own website designed with Quarto and my blood,sweat and tears. (just kidding!)"
+  },
+  {
+    "objectID": "index.html#why-nm2207",
+    "href": "index.html#why-nm2207",
+    "title": "YINGZHE",
+    "section": "Why NM2207",
+    "text": "Why NM2207\n13 weeks ago, I decided to embark on a personal challenge of learning how to code and hence opted for this module, NM2207. I have previously worked with Wix and thought it was very fun organising and customising your own website so I thought building one from code would be a good challenge and also a time to pick up a new skill! Stick around and play with the website to see the fruits of my labour this semester :D."
+  }
+]

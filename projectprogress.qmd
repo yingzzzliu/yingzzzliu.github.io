@@ -1,0 +1,37 @@
+---
+title: "Project Progress"
+---
+
+## Project Progress
+
+This page allows you to access all the projects/code-alongs/challenges that I have done throughout the semester! From week 9 onwards, there are diary entries recording my progress and the challenges I have faced when doing this final project. For easier reference to the diary entries, please click on the link to 'Project Diary'.
+
+Week 1 - <https://github.com/yingzzzliu/nm2207-w1.git>
+
+Week 2 - <https://github.com/yingzzzliu/nm2207-w2.git>
+
+Week 3 - <https://github.com/yingzzzliu/nm2207-w3.git>
+
+Week 4 - <https://github.com/yingzzzliu/nm2207-w4.git>
+
+Week 5 - <https://github.com/yingzzzliu/nm2207-w5.git>
+
+Week 6 - <https://github.com/yingzzzliu/nm2207-w6.git>
+
+Week 7 - <https://github.com/yingzzzliu/nm2207-w7.git>
+
+Week 8 - <https://github.com/yingzzzliu/nm2207-w8.git>
+
+Week 9 - <https://github.com/yingzzzliu/nm2207-w9-.git>
+
+Week 10 - <https://github.com/yingzzzliu/nm2207-w10.git>
+
+Week 11 -
+
+Week 12 -
+
+Project Dairy -
+
+## Learning Log
+
+Additionally, I have included a [document](https://docs.google.com/document/d/19reI4ZggJKOIdsoU3H6Nt2q8tzXbo1aKiM4u9akXQWo/edit?usp=sharing) to show my application of concepts taught during class in my final project. It also includes some extra learning I did beyond this course and how it has been helpful to my final project set up :) .

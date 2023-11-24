@@ -1,0 +1,24 @@
+---
+title: "YINGZHE"
+
+image: "C:/Users/angel/OneDrive/Documents/NM2207/backup/images/me.jpg"
+
+about: 
+
+  template: jolla
+
+  image-shape: round
+
+  image-width: 15em
+---
+
+::: {#about-block}
+:::
+
+## A little self intro
+
+Hello :) I am Yingzhe, a Year 3 student studying Psychology and Communications and New Media in National University of Singapore. Some of my hobbies are travelling (exploring the nature abroad), eating (love visiting cafes with matcha options) and reading (love me a good novel). Welcome to my very own website designed with Quarto and my blood,sweat and tears. (just kidding!)
+
+## Why NM2207
+
+13 weeks ago, I decided to embark on a personal challenge of learning how to code and hence opted for this module, NM2207. I have previously worked with Wix and thought it was very fun organising and customising your own website so I thought building one from code would be a good challenge and also a time to pick up a new skill! Stick around and play with the website to see the fruits of my labour this semester :D.
