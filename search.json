@@ -58,9 +58,9 @@
   {
     "objectID": "finalproject.html",
     "href": "finalproject.html",
-    "title": "LIU YINGZHE",
+    "title": "Final Project",
     "section": "",
-    "text": "title: “YINGZHE”\nimage: me.jpg\nabout:\ntemplate: jolla\nimage-shape: round"
+    "text": "In my project, I will investigate the relationship between World Happiness Index and economic,social and political factors over the 5 years of 2015 to 2019. Under economic factor, we will be looking at gross domestic product (GDP) per capita. For social factors, we are looking at health (life expectancy) and freedom to make life choices. Lastly, for political factor, we will be looking at trust in the government. All data used are from this dataset I have found on Kaggle."
   },
   {
     "objectID": "finalproject.html#image-width-15em",
@@ -82,5 +82,40 @@
     "title": "YINGZHE",
     "section": "Why NM2207",
     "text": "Why NM2207\n13 weeks ago, I decided to embark on a personal challenge of learning how to code and hence opted for this module, NM2207. I have previously worked with Wix and thought it was very fun organising and customising your own website so I thought building one from code would be a good challenge and also a time to pick up a new skill! Stick around and play with the website to see the fruits of my labour this semester :D."
+  },
+  {
+    "objectID": "finalproject.html#about",
+    "href": "finalproject.html#about",
+    "title": "Final Project",
+    "section": "",
+    "text": "In my project, I will investigate the relationship between World Happiness Index and economic,social and political factors over the 5 years of 2015 to 2019. Under economic factor, we will be looking at gross domestic product (GDP) per capita. For social factors, we are looking at health (life expectancy) and freedom to make life choices. Lastly, for political factor, we will be looking at trust in the government. All data used are from this dataset I have found on Kaggle."
+  },
+  {
+    "objectID": "finalproject.html#context",
+    "href": "finalproject.html#context",
+    "title": "Final Project",
+    "section": "Context",
+    "text": "Context\nThe World Happiness Report stands as a significant survey assessing the global state of happiness. Its inaugural edition surfaced in 2012, followed by subsequent reports in 2013, 2015, and the 2016 Update. On March 20th, the World Happiness 2017 report, unveiling happiness rankings for 155 countries, was presented at the United Nations during an event commemorating the International Day of Happiness. Over time, the report has garnered widespread acknowledgment, influencing governments, organizations, and civil society in utilizing happiness indicators to shape their policy decisions. Esteemed experts spanning various disciplines such as economics, psychology, survey analysis, national statistics, health, and public policy underline the effective application of well-being measurements in evaluating the progress of nations."
+  },
+  {
+    "objectID": "finalproject.html#analysis",
+    "href": "finalproject.html#analysis",
+    "title": "Final Project",
+    "section": "Analysis",
+    "text": "Analysis"
+  },
+  {
+    "objectID": "finalproject.html#conclusion",
+    "href": "finalproject.html#conclusion",
+    "title": "Final Project",
+    "section": "Conclusion",
+    "text": "Conclusion"
+  },
+  {
+    "objectID": "finalproject.html#references",
+    "href": "finalproject.html#references",
+    "title": "Final Project",
+    "section": "References",
+    "text": "References"
   }
 ]
